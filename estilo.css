@@ -13,7 +13,7 @@ body{
     align-items: center;
 }
 #carta{
-    width: 40%;
+    width: 700px;
     margin: 25px;
     padding: 20px;
     border-radius: 15px;
@@ -23,6 +23,6 @@ body{
     background-size: cover;
 }
 #carta>p{
-    font-size: 40px;
+    font-size: 50px;
     font-family: 'fall is comming';
 }
