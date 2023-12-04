@@ -26,3 +26,11 @@ body{
     font-size: 50px;
     font-family: 'fall is comming';
 }
+@media (max-width: 1000px) {
+    #carta{
+        width: 90%;
+    }
+    #carta>p{
+        font-size: 30px;
+    }
+}
