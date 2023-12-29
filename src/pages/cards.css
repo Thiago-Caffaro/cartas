@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'fall is comming';
-    src: url('font/FallIsComingRegular-Mx9B.ttf');
+    src: url('/font/FallIsComingRegular-Mx9B.ttf');
 }
 #title{
     margin: 15px;
